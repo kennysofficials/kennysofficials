@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kennysofficials
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning css and javascript.
-- 📫 How to reach me? Email kennysofficials@gmail.com or message me on twitter.
+- 📫 How to reach me? Email kennysofficials@gmail.com or message me on twitter
 https://twitter.com/kennysofficials
 
 <!---
